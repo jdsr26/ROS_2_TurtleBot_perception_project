@@ -1,5 +1,4 @@
-# ROS_2_TurtleBot_perception_project
-
+# Perception-Based Dynamic TurtleBot
 
 ## Prerequisites
 
